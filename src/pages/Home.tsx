@@ -38,7 +38,7 @@ export default function Home() {
             </p>
             <div className="mt-8 flex flex-wrap gap-4">
               <a
-                href="mailto:amanchacodes@gmail.com"
+                href="mailto:amancharahul25@gmail.com"
                 className="inline-flex items-center gap-2 rounded-full bg-primary-500 px-6 py-3 text-base font-semibold text-white shadow-lg transition hover:bg-primary-600"
               >
                 Contact for Collaboration
