@@ -1,12 +1,11 @@
 {
-  "name": "django-tailwind-portfolio",
+  "name": "react-portfolio",
   "private": true,
-  "version": "1.0.0",
+  "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "start": "vite",
     "dev": "vite",
-    "build": "vite build",
+    "build": "tsc && vite build",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
@@ -32,8 +31,5 @@
     "tailwindcss": "^3.4.4",
     "typescript": "^5.2.2",
     "vite": "^5.4.11"
-  },
-  "engines": {
-    "node": ">=16.0.0"
   }
 }
